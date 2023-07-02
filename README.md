@@ -1,1 +1,1 @@
-# Simple Chatbot Which is Made using Python(Flask), HTML, CSS, JavaScript
+# Simple Chatbot using Python(Flask), HTML, CSS, JavaScript
