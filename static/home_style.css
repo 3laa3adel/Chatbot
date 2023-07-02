@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #0f2027, #315b69, #7297a7);
+    font-family: 'Poppins', sans-serif;
+}
+.button {
+    padding: 10px;
+    margin-left: 670px;
+    margin-top: 30px;
+    width: 10%;
+    color: white;
+    background-color: rgb(15, 18, 46);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+
+}
+.button:hover {
+    background-color:#ffffff;
+    color: black;
+}
+.t{
+    text-align: center;
+    margin-left: auto;
+    margin-top: 300px;
+    color: azure;
+    font-family: monospace;
+}
